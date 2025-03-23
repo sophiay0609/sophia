@@ -1,0 +1,2 @@
+# sophia
+number randomizing program
